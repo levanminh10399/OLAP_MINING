@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Bi_14_OLAP_Mining", "Bi_14_OLAP_Mining\Bi_14_OLAP_Mining.dwproj", "{AA66F4BF-53FD-4C13-B5F2-06BBD00E9A5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA66F4BF-53FD-4C13-B5F2-06BBD00E9A5D}.Development|Default.ActiveCfg = Development
+		{AA66F4BF-53FD-4C13-B5F2-06BBD00E9A5D}.Development|Default.Build.0 = Development
+		{AA66F4BF-53FD-4C13-B5F2-06BBD00E9A5D}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F899A5F-04BD-4856-9CD0-ADC0FBD1EB26}
+	EndGlobalSection
+EndGlobal
